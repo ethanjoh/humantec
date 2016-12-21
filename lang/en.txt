@@ -1,0 +1,7 @@
+{
+    "lang":"en-us",
+    "INTRO":"Welcome to HUMANTEC Homepage.",
+    "Yes":"Yes",
+    "or":"or",
+    "Do you require help":"Welcome to HUMANTEC Homepage."
+}

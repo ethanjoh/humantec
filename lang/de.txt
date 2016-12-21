@@ -1,0 +1,7 @@
+{
+    "lang":"de",
+    "INTRO":"Willkommen auf der Homepage von HUMANTEC.",
+    "Yes":"Ja",
+    "or":"oder",
+    "Do you require help":"Brauchen Sie Hilfe"
+}
